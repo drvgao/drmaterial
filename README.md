@@ -1,5 +1,21 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Features
+- Material UI
+- Customizable themes
+- Redux store with saga
+- JWT Authentication
+- Styled components support
+- React Sprint Animations
+- Custom cards, flip cards - demo pages. 
+- Photo Gallery - demo pages
+- Carousals
+- react-images
+  - Lazy loading for performance 
+  - Fall back images 
+  - Handle broken images 
+  - Spinner on loading 
+
 ## Available Scripts
 
 In the project directory, you can run:
